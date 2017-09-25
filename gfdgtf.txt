@@ -1,0 +1,8 @@
+
+
+https://www.google.com/fusiontables/DataSource?docid=1N-ffv9OPnp7srQyinorTFJtNvIDtSl6QNy8dfxVO
+
+service accnt
+fusiontables@universal-wares-174905.iam.gserviceaccount.com
+key id
+3ab889bef6cd2d31c29e455357c2a0844117f219
